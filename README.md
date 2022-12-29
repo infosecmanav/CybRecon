@@ -7,6 +7,7 @@
 ╚█████╔╝░░░██║░░░██████╦╝██║░░██║███████╗╚█████╔╝╚█████╔╝██║░╚███║
 ░╚════╝░░░░╚═╝░░░╚═════╝░╚═╝░░╚═╝╚══════╝░╚════╝░░╚════╝░╚═╝░░╚══╝
                                                    V0.0.1 (beta)
+                                                   
 ####################------------------------ Coded By Manav Surti
                                         
 An Automated tool performing Reconnaissance on the target using popular Open Source tools 
