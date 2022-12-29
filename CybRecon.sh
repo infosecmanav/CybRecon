@@ -106,6 +106,7 @@ directory_fuzzing(){
 
 
 help_info(){
+    echo -e "$Magenta Help inf0...."
     echo -e "$GREENCOLOR ABOUT..."
     echo -e "$Blue CybRecon is an Information gathering tool "
     echo -e "$Blue which is used for Subdomain Enumuration as well to check whether Subdomain Takeover is possible or not moreover it provides you additional informations like Whois lookup, ns lookup"
