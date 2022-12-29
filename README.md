@@ -33,10 +33,24 @@ An Automated tool performing Reconnaissance on the target using popular Open Sou
 ▀▄▄▄▀▄▄▄▀▀▄▄▀▄▄▄▄▄▀▀▄▄▄▀▀▄▄▀▄▄▀▄▄▄▄▄▀▄▄▄▄▄▀▀▀▄▄▄▄▄▀▀▄▄▄▀▀▄▄▄▄▀▀▄▄▀▄▄▀▄▄▄▄▄▀▄▄▄▄▄▀▄▄▄▄▀▄▄▄▀▀▄▄▀
 
 `git clone https://github.com/manav2451/CybRecon.git`
+
 `cd CybRecon`
+
 `chmod +x install.sh`
+
 `./install.sh`
+
 `chmod +x CybRecon.sh`
+
+
+╭━━━╮╱╱╱╱╱╭╮
+┃╭━━╯╱╱╱╱╭╯╰╮
+┃╰━━┳━━┳━┻╮╭╋╮╭┳━┳━━┳━━╮
+┃╭━━┫┃━┫╭╮┃┃┃┃┃┃╭┫┃━┫━━┫
+┃┃╱╱┃┃━┫╭╮┃╰┫╰╯┃┃┃┃━╋━━┃
+╰╯╱╱╰━━┻╯╰┻━┻━━┻╯╰━━┻━━╯
+
+To be Updated soon...
 
 
 
