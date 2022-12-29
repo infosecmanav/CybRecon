@@ -6,7 +6,7 @@ REDCOLOR="\e[31m"
 GREENCOLOR="\e[32m"
 Yellow="\e[33m"
 Blue="\e[34m"
-Magenta="\e[91m"
+Magenta="\e[95m"
 
 
 echo -e "$GREENCOLOR
