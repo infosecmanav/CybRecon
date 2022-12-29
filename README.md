@@ -22,7 +22,7 @@ An Automated tool performing Reconnaissance on the target using popular Open Sou
 ╚═══╩═══╩╝─╚╩═══╩═══╝
 
 `./CybRecon.sh -d target.com -m modes`
-`                                   `
+
 `./CybRecon.sh -h`
 
 
