@@ -110,7 +110,7 @@ help_info(){
     echo -e "$Blue CybRecon is an Information gathering tool "
     echo -e "$Blue which is used for Subdomain Enumuration as well to check whether Subdomain Takeover is possible or not moreover it provides you additional informations like Whois lookup, ns lookup"
     echo -e "\n\n"
-    echo -e "$Yellow Usage: ./CybRecon.sh domain [options]"
+    echo -e "$Yellow Usage: ./CybRecon.sh -d target.com -m modes"
     echo -e "$Yellow "
     echo -e "$GREENCOLOR OPTIONS/MODES: "
     echo -e "$Blue  Power | power | POWER      Run CybRecon in Power mode \n Enumurates all Subdomains, Directory Search on Subdomains  as well as checks for Subdomain takeover If possible"
