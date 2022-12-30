@@ -114,9 +114,9 @@ help_info(){
     echo -e "$Yellow Usage: ./CybRecon.sh -d target.com -m modes"
     echo -e "$Yellow "
     echo -e "$GREENCOLOR OPTIONS/MODES: "
-    echo -e "$Blue  Power | power | POWER      Run CybRecon in Power mode \n Enumurates all Subdomains, Directory Search on Subdomains  as well as checks for Subdomain takeover If possible"
-    echo -e "$Blue  Depth | depth | DEPTH      Run CybRecon in Depth mode \n Enumurates all Subdomains as well as checks for Subdomain takeover if possible"
-    echo -e "$Blue  Light | light | LIGHT      Run CybRecon in Light mode \n Enumurates all Subdomains only"
+    echo -e "$REDCOLOR  Power | power | POWER      Run CybRecon in Power mode \n Enumurates all Subdomains, Directory Search on Subdomains  as well as checks for Subdomain takeover If possible"
+    echo -e "$Magenta  Depth | depth | DEPTH      Run CybRecon in Depth mode \n Enumurates all Subdomains as well as checks for Subdomain takeover if possible"
+    echo -e "$GREENCOLOR  Light | light | LIGHT      Run CybRecon in Light mode \n Enumurates all Subdomains only"
     echo -e "$Yellow FLAGS:"
     echo -e "$Yellow  -d    --domain    :   To set Domain of the target"
     echo -e "$Yellow  -h    --help      :   For Help Menu"
@@ -179,7 +179,7 @@ then
    subdomain_takeover
    directory_fuzzing
 
-elif [ "$MODE" = 'Depth' ] || [ "$MODE" = 'depth' ] || ["$MODE ='DEPTH']
+elif [ "$MODE" = 'Depth' ] || [ "$MODE" = 'depth' ] || [ "$MODE" = 'DEPTH' ]
 then
     lookup
     techstack_info
@@ -197,9 +197,7 @@ then
     
 
 else
-    echo -e "$Yellow  Something went Wrong"
-    help_info
+    echo -e "$Yellow ./CybRecon.sh -h for more info"
 fi
-
 
 echo -e "$GREENCOLOR [+] Succesfully Completed the Scan with CybRecon."
