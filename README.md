@@ -17,13 +17,13 @@ An Automated tool performing Reconnaissance on the target using popular Open Sou
 
 ```./CybRecon.sh -d target.com -m modes
 
-./CybRecon.sh -h```
-
+./CybRecon.sh -h
+```
 
 # Installation of CybRecon
 
 
-`git clone https://github.com/manav2451/CybRecon.git`
+```git clone https://github.com/manav2451/CybRecon.git
 
 `cd CybRecon`
 
@@ -32,7 +32,7 @@ An Automated tool performing Reconnaissance on the target using popular Open Sou
 `./install.sh`
 
 `chmod +x CybRecon.sh`
-
+```
 # Features
 To be Updated soon...
 
