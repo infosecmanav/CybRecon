@@ -50,7 +50,7 @@ techstack_info(){
 
 lookup(){
     echo -e "$Blue Performing WHois Lookup on $target....."
-    whois -M -x $target 
+    whois  $target 
     nslookup $target
 }
 
