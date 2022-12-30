@@ -43,7 +43,7 @@ It runs in three Diffrent Modes
 Note: Inf0 regarding Whois lookup and ns lookup comes by default in each mode
 
 1) Power                       
-                               Subdomain Enumration is done with Directory fuzzing, checks for Subdomain takeover also    
+                               Subdomain Enumration is done followd by Directory fuzzing, checks for Subdomain takeover also    
 
 2) Depth                       
                                Subdomain Enumration is done and  checks for Subdomain takeover also    
