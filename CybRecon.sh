@@ -33,12 +33,7 @@ usage
 
 
 
-if [ ! -d $target ]
-then
-    mkdir $target
-fi
 
-cd $target
 
 
 
@@ -169,7 +164,12 @@ while true; do
 done
 
 echo -e "$GREENCOLOR Target is set to $target in $MODE Mode.........."
+if [ ! -d $target ]
+then
+    mkdir $target
+fi
 
+cd $target
 if [ "$MODE" = 'Power' ] || [ "$MODE" = 'power' ] || [ "$MODE" = 'POWER' ]  
 then
    lookup
