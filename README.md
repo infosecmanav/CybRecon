@@ -15,7 +15,8 @@ An Automated tool performing Reconnaissance on the target using popular Open Sou
 # Usage
 
 
-```./CybRecon.sh -d target.com -m modes
+``` 
+./CybRecon.sh -d target.com -m modes
 
 ./CybRecon.sh -h
 ```
@@ -23,15 +24,16 @@ An Automated tool performing Reconnaissance on the target using popular Open Sou
 # Installation of CybRecon
 
 
-```git clone https://github.com/manav2451/CybRecon.git
+```
+git clone https://github.com/manav2451/CybRecon.git
 
-`cd CybRecon`
+cd CybRecon
 
-`chmod +x install.sh`
+chmod +x install.sh
 
-`./install.sh`
+./install.sh
 
-`chmod +x CybRecon.sh`
+chmod +x CybRecon.sh
 ```
 # Features
 To be Updated soon...
