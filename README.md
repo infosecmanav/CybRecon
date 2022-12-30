@@ -8,16 +8,16 @@
 ░╚════╝░░░░╚═╝░░░╚═════╝░╚═╝░░╚═╝╚══════╝░╚════╝░░╚════╝░╚═╝░░╚══╝
                                                    V0.0.1 (beta)
                                                    
-####################------------------------ Coded By Manav Surti
+######################------------------------ Coded By Manav Surti
                                         
 An Automated tool performing Reconnaissance on the target using popular Open Source tools 
 
 # Usage
 
 
-`./CybRecon.sh -d target.com -m modes`
+```./CybRecon.sh -d target.com -m modes
 
-`./CybRecon.sh -h`
+./CybRecon.sh -h```
 
 
 # Installation of CybRecon
