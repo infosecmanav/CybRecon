@@ -120,8 +120,9 @@ help_info(){
     echo -e "$Yellow FLAGS:"
     echo -e "$Yellow  -d    --domain    :   To set Domain of the target"
     echo -e "$Yellow  -h    --help      :   For Help Menu"
-    echo -e "$GREENCOLOR   CybRecon in Power mode"
-    echo -e "$Yellow        ./CybRecon.sh -d victim.com -m power"
+    echo -e "$GREENCOLOR  For Ex- CybRecon in Power mode"
+    echo -e "$Yellow  ./CybRecon.sh -d victim.com -m power"
+
 
 
 }
