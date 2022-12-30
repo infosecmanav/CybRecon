@@ -202,4 +202,4 @@ else
 fi
 
 
-echo -e "$GREENCOLOR [+] Succesfully Completed the Scan, Thanks for using CybRecon"
+echo -e "$GREENCOLOR [+] Succesfully Completed the Scan with CybRecon."
