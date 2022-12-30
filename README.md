@@ -25,7 +25,7 @@ An Automated tool performing Reconnaissance on the target using popular Open Sou
 
 
 ```
-git clone https://github.com/manav2451/CybRecon.git
+git clone https://github.com/infosecmanav/CybRecon.git
 
 cd CybRecon
 
