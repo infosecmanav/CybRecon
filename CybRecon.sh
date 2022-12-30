@@ -179,7 +179,7 @@ then
    subdomain_takeover
    directory_fuzzing
 
-elif [ "$MODE" = 'Depth' ] || [ "$MODE" = 'depth' ] || ["$MODE ='DEPTH"]
+elif [ "$MODE" = 'Depth' ] || [ "$MODE" = 'depth' ] || ["$MODE ='DEPTH']
 then
     lookup
     techstack_info
