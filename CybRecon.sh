@@ -24,7 +24,7 @@ echo -e "$Magenta                                             V0.0.1 (beta)
  ###################------------------------ Coded By Manav Surti"
 
 echo -e "$Blue \n
-    Connect with me on LinkedIn:https://www.linkedin.com/in/manav-surti-b53130223/"
+Connect with me on LinkedIn:https://www.linkedin.com/in/manav-surti-b53130223/"
 
 usage(){
      echo -e "$REDCOLOR Usage: ./CybRecon.sh -d target.com -m options" 
