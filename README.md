@@ -40,7 +40,7 @@ CybRecon is an Information Gathering tool which provides you results of Active S
 
 It runs in three Diffrent Modes 
 
-Note: Inf0 regarding Whois inf0 and ns lookup comes by default in each mode
+Note: Inf0 regarding Whois and ns lookup comes by default in each mode
 
 1) Power                       
                                Subdomain Enumration is done followd by Directory fuzzing, checks for Subdomain takeover also    
