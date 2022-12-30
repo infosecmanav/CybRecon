@@ -40,7 +40,7 @@ fi
 
 cd $target
 
-echo -e "$GREENCOLOR Target is set to $target in mode $MODE .........."
+
 
 techstack_info(){
     echo -e "$Yellow Collecting Tech Stack Info...."
@@ -124,7 +124,6 @@ help_info(){
     echo -e "$Yellow  ./CybRecon.sh -d victim.com -m power"
 
 
-
 }
 
 while true; do
@@ -169,7 +168,7 @@ while true; do
     esac
 done
 
-
+echo -e "$GREENCOLOR Target is set to $target in $MODE Mode.........."
 
 if [ "$MODE" = 'Power' ] || [ "$MODE" = 'power' ] || [ "$MODE" = 'POWER' ]  
 then
